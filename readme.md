@@ -1,9 +1,3 @@
-Here’s a complete **`README.md`** file for your Flask + MongoDB CRUD web application — including project description, requirements, setup, and run instructions.
-You can copy-paste it into your project root as `README.md` 👇
-
----
-
-```markdown
 # 🧩 Flask + MongoDB CRUD Web Application
 
 A simple full-stack **Flask** web app connected to **MongoDB** for performing complete **CRUD (Create, Read, Update, Delete)** operations on student data.
